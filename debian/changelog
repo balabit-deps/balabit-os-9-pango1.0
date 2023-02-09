@@ -1,3 +1,10 @@
+pango1.0 (1.50.6+ds-2ubuntu1) jammy; urgency=medium
+
+  * Cherry-pick fix for vertical color lines showing with composite emoji
+    (LP: #2006756)
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Thu, 09 Feb 2023 11:34:31 -0500
+
 pango1.0 (1.50.6+ds-2) unstable; urgency=medium
 
   * Cherry-pick patch to fix RTL navigation between lines (LP: #1966613)
